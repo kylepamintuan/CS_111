@@ -2,8 +2,8 @@
 CS 111 – Fundamentals of Programming (C++)
 
 •	Problem Set 1 <br/>
-  o	Programming in general <br/>
-<br/>  
+&nbsp;&nbsp;&nbsp;&nbsp;o	Programming in general <br/>
+  
 •	Problem Set 2
   o	Creating our first project
   o	Header files
